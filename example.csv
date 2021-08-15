@@ -1,0 +1,11 @@
+Name,Age,Department,Salary,Status,City
+John Doe,30,Engineering,75000,Active,New York
+Jane Smith,25,Marketing,65000,Active,San Francisco
+Bob Johnson,35,Engineering,80000,Inactive,Seattle
+Alice Brown,28,HR,60000,Active,Boston
+Charlie Davis,32,Engineering,85000,Active,Austin
+Eva Wilson,29,Marketing,70000,Active,Chicago
+Frank Miller,45,HR,90000,Active,Denver
+Grace Lee,26,Engineering,72000,Active,Portland
+Henry Clark,38,Marketing,68000,Inactive,Miami
+Ivy Taylor,31,HR,58000,Active,Phoenix 
